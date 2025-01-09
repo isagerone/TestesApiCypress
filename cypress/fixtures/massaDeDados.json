@@ -1,0 +1,8 @@
+{
+  "UrlBase": "https://petstore.swagger.io/",
+  "IdAvailable": 2,
+  "IdPending": 3,
+  "IdSold": 13,
+  "IdInvalido": 7777777,
+  "IdEmBranco": ""
+}

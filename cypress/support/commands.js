@@ -12,4 +12,3 @@ Cypress.Commands.add('validatePetResponse', (response, expectedStatus, expectedB
         expect(response.body).to.have.property(expectedBodyProperty, expectedValue)
     }
  })
-
